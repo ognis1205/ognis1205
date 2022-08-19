@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=ognis1205&color=lightgrey)
 
-![](https://komarev.com/ghpvc/?username=ognis1205&color=lightgrey)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ognis1205&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ognis1205&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ognis1205&theme=github)
