@@ -1,10 +1,4 @@
-<h2 align="center">
-	Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving-hand" width="30px"> I'm Shingo OKAWA
-</h2>
-
-![](https://komarev.com/ghpvc/?username=ognis1205&color=lightgrey)
-
-## Stats
+## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving-hand" width="30px"> I'm Shingo OKAWA
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ognis1205&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ognis1205&theme=github)
