@@ -3,7 +3,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ognis1205&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ognis1205&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ognis1205&theme=github)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ognis1205)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **ognis1205/ognis1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
