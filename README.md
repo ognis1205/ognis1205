@@ -3,6 +3,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ognis1205&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ognis1205&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ognis1205&theme=github)
+![](https://komarev.com/ghpvc/?username=ognis1205&style=for-the-badge)
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=ognis1205)](https://github.com/ryo-ma/github-profile-trophy)
