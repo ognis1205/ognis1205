@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving-hand" width="30px">
 
-![](https://komarev.com/ghpvc/?username=ognis1205&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ognis1205&style=for-the-badge)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ognis1205&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ognis1205&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ognis1205&theme=github)
