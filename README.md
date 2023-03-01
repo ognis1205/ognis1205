@@ -1,8 +1,8 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving-hand" width="30px">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ognis1205&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ognis1205&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ognis1205&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ognis1205)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ognis1205)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ognis1205)
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=ognis1205)](https://github.com/ryo-ma/github-profile-trophy)
